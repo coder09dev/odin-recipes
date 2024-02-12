@@ -1,0 +1,29 @@
+#title {
+    font-weight: 700;
+    color: #ff5900;
+    font-size: 75px;
+}
+
+.recipes-list {
+    font-size: 30px;
+}
+
+/* styles for recipes */
+h1 {
+    font-weight: 800;
+    font-size: 60px;
+}
+
+.headings {
+    font-family: "Comic Sans MS", sans-serif;
+}
+
+.text {
+    font-family: "Times New Roman", serif;
+    font-size: 20px;
+}
+
+.recipe-pic {
+    height: auto;
+    width: 500px;
+}
